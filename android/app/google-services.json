@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848116115807",
+    "project_id": "testhibank",
+    "storage_bucket": "testhibank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848116115807:android:ce15e6f68797689854eeea",
+        "android_client_info": {
+          "package_name": "com.example.test_hi_bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCavo4l0R-Y1KMw8SP1lskVJRT-GkiEUr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
